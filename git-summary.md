@@ -8,9 +8,11 @@ Hace un Commit temporal sin subir los cambios.
 Se utiliza cuando cambias de rama y dejas a medias el trabajo en la rama anterior.
 De esta manera, Git te deja cambiar de rama si darte errores.
 ```git stash```
+
 ```git stash list``` --> te permite listar los stash que tienes pendientes.
 ```git stash drop``` --> elimina los stashs pendientes
 
 ## Git Diff
 Comando para mostrar las diferencias entre archivos y ramas.
+
 ```git diff rama``` --> permite comparar la rama en la estás con la que especifiques en el comando. 
