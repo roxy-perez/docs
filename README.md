@@ -1,5 +1,5 @@
 ![Docs](https://img.shields.io/badge/Roxy-docs-green)
-# My documentation Docs about some programming stuffs...
+# My documentation Docs about some programming stuffs and English notes...
 
 - A place where I'am about to save all my docs online included programming commands and english lessons.
 
